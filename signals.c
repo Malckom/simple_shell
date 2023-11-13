@@ -4,7 +4,7 @@
 
 /**
  * signal_handler - blocks CTR - C
- * @signum: integer to the signal
+ * @signum: a  integer to the signal
  *
  * Return: Nothing.
  */
