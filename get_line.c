@@ -6,7 +6,7 @@
 #define BUF_SIZE 1024
 
 /**
- * realloc_buf - reallocates memory buffer
+ * realloc_buf - it reallocates memory buffer
  * @lineptr: pointer to pointer to the read line
  * @n: pointer to size of line read
  * @pos: position of newline
