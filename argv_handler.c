@@ -7,7 +7,7 @@
 #include "main.h"
 
 /**
- * get_argument_count - counts the number of arguments in the array argv
+ * get_argument_count - it counts the number of arguments in the array argv
  * @argv: pointer to an array of strings
  * Return: Return argument count
  */
