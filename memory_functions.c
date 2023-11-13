@@ -6,7 +6,7 @@
  * @argv: pointer to struct custom_args
  * @path: pointer to struct env_var
  *
- * Return: Nothing.
+ * Return: returns nothing.
  */
 
 void free_struct(custom_args *argv, env_var *path)
