@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
- * print_err - prints error message to stdout
+ * print_err - it prints error message to stdout
  * @program_name: pointer to the program  being executed
  * Return: Nothing.
  */
