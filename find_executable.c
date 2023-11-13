@@ -12,7 +12,7 @@
 /**
  * find_path - helper function to find_executable
  * @path_cpy: pointer to copy of path
- * @var: pointer to struct var
+ * @var: its a pointer to struct var
  * @filename: pointer to the file being found
  *
  * Return: returns pointer to a filepath found.
