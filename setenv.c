@@ -4,7 +4,7 @@
 #include "main.h"
 
 /**
- * _setenv - initializes a new environment variable, or modify existing one
+ * _setenv - it initializes a new environment variable, or modify existing one
  * @name: pointer the variable whose value is to be set/updated
  * @value: pointer to the value to be set/updated
  * @overwrite: interger condition to overwrite existing variable
