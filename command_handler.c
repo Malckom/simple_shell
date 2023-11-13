@@ -6,7 +6,7 @@
 #include "main.h"
 
 /**
- * execute_set_env - Executes the "setenv" and "unsetenv" commands.
+ * execute_set_env - it executes the "setenv" and "unsetenv" commands.
  * @argv: Pointer to the array of command-line arguments.
  *
  * Return: A message indicating the result of the command execution.
